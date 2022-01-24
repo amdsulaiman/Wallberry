@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Gradient, purple blue, abstract, 1080x2160 wallpaper.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
